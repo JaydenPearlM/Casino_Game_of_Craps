@@ -1,5 +1,8 @@
-This was done using OnlineGDB as a project for my Python Class.
-I challenged myself to create and finish this game without the use of sources.
-It's set up for 3 turns, however it can be changed to 10 turns. 
-The Dice can be changed from dice = dice(6) object to... for example: dice = dice(20).
+**This is the final update of this Text-based Game**
+This was a program made in Python as a project in my Python class.  I challenged myself to complete it without using sources.
+
+- Has the ability to keep score
+- User can choose to keep playing or to quit the game
+- Dice rolling can be any type of dice e.g. 20 sided etc...
+-One player, User can enter their name
 
